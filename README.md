@@ -1,4 +1,4 @@
-# R-for-Beginners-Workshop
+# R-for-Beginners-Workshop 💻📈
 
 **Organized by:** Big Data Experience Center(BX)
 
