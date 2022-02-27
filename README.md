@@ -8,6 +8,6 @@
 
 **Workshop Description:** 
 - Basic R programming
-- Import Data
-- Basic Statistics
+- Data wrangling: dplyr
+- Unit of Analysis
 - Base plot
